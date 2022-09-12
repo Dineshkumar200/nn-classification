@@ -12,7 +12,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 You are required to help the manager to predict the right group of the new customers.
 
-## Neural Network Model
+## </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br>Neural Network Model
 ![Screenshot 2022-09-12 233010](https://user-images.githubusercontent.com/75235789/189724663-89d90b42-79d4-4d0a-93fc-ddd6745b2511.jpg)
 
 
@@ -226,7 +226,7 @@ print(le.inverse_transform(x_single_prediction))
 ![Screenshot 2022-09-12 231234](https://user-images.githubusercontent.com/75235789/189722712-678903b7-b66d-405f-b9bc-5f7faae7166c.jpg)
 
 
-## OUTPUT
+##  </br> </br> </br> </br> </br> </br> </br> </br>OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
@@ -238,7 +238,7 @@ print(le.inverse_transform(x_single_prediction))
 ![Screenshot 2022-09-12 231436](https://user-images.githubusercontent.com/75235789/189722529-c82f3e8d-ad8e-4659-818c-783e07476344.jpg)
 
 
-### Confusion Matrix
+###  </br> </br> </br> </br> </br> </br>Confusion Matrix
 
 ![Screenshot 2022-09-12 231514](https://user-images.githubusercontent.com/75235789/189722564-19c9ec73-ac9e-47a8-816f-5f5f39bca66b.jpg)
 
