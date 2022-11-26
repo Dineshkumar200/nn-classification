@@ -1,9 +1,14 @@
-# Developing a Neural Network Classification Model
+### EX NO: 02
+
+### DATE: 08/09/2022
+
+
+# </br><p align = "center"> Developing a Neural Network Classification Model </p>
 
 ## AIM
 
 To develop a neural network classification model for the given dataset.
-
+</br></br>
 ## Problem Statement
 
 An automobile company has plans to enter new markets with their existing products. After intensive market research, they’ve decided that the behavior of the new market is similar to their existing market.
@@ -12,7 +17,8 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 You are required to help the manager to predict the right group of the new customers.
 
-## </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br>Neural Network Model
+## </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> Neural Network Model
+
 ![Screenshot 2022-09-12 233010](https://user-images.githubusercontent.com/75235789/189724663-89d90b42-79d4-4d0a-93fc-ddd6745b2511.jpg)
 
 
@@ -54,7 +60,7 @@ Predicting the model through classification report,confusion matrix.
 
 Predict the new sample data.
 
-## PROGRAM
+## </br></br></br></br></br>PROGRAM
 ```python
 # Developed By : Dineshkumar V
 # Register Number : 212220230013
@@ -226,7 +232,7 @@ print(le.inverse_transform(x_single_prediction))
 ![Screenshot 2022-09-12 231234](https://user-images.githubusercontent.com/75235789/189722712-678903b7-b66d-405f-b9bc-5f7faae7166c.jpg)
 
 
-##  </br> </br> </br> </br> </br> </br> </br> </br>OUTPUT
+##  </br> </br> </br> </br> OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
@@ -238,7 +244,7 @@ print(le.inverse_transform(x_single_prediction))
 ![Screenshot 2022-09-12 231436](https://user-images.githubusercontent.com/75235789/189722529-c82f3e8d-ad8e-4659-818c-783e07476344.jpg)
 
 
-###  </br> </br> </br> </br> </br> </br>Confusion Matrix
+###  </br> </br> Confusion Matrix
 
 ![Screenshot 2022-09-12 231514](https://user-images.githubusercontent.com/75235789/189722564-19c9ec73-ac9e-47a8-816f-5f5f39bca66b.jpg)
 
@@ -248,5 +254,5 @@ print(le.inverse_transform(x_single_prediction))
 ![Screenshot 2022-09-12 231554](https://user-images.githubusercontent.com/75235789/189722602-befe1dd9-f109-422f-bb19-0ae233aef57b.jpg)
 
 
-## RESULT
+## </br></br></br></br></br></br></br>RESULT
 Thus,a neural network classification model for the given dataset is developed.
